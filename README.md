@@ -1,5 +1,6 @@
 Smoking Detection System V2.0
 This is a Smoking Detection System that uses YOLO (You Only Look Once) for object detection and OpenCV for video processing. It can detect smoking in real-time from a camera feed or by uploading images and videos. The system provides a graphical user interface (GUI) built using Tkinter, and it plays an alert sound when smoking is detected.
+![image](https://github.com/user-attachments/assets/8be8f461-35ac-4308-873c-ac4f1cba2790)
 
 Features
 Real-Time Camera Feed: Detect smoking in a live video stream using your webcam.
